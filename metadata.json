@@ -1,0 +1,8 @@
+{
+  "name": "EMEA Logistics Digital Integration Hub",
+  "description": "Proof of Concept for API Governance and Fleet Visibility by Enterprise Solutions Architecture",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
